@@ -1,4 +1,4 @@
-FROM openshift/jenkins-slave-maven-centos
+FROM openshift/jenkins-slave-maven-centos7
 
 SBT_VERSION 0.13.15
 
