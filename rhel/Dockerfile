@@ -1,4 +1,4 @@
-FROM openshift/jenkins-slave-maven-rhel7
+FROM openshift3/jenkins-slave-maven-rhel7
 
 ENV SBT_VERSION 0.13.15
 
